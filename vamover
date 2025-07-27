@@ -3,3 +3,5 @@
 # Categoria Filmes
 #EXTINF:-1 tvg-id="divertida_mente_2" tvg-name="Divertida Mente 2" tvg-logo="" group-title="Filmes",Divertida Mente 2
 https://be6721.rcr72.waw04.i8yz83pn.com/hls2/01/07055/u39gmxfuvx2h_x/master.m3u8?t=GIHDlxxQNwlhHLNbybkeM6aBqCevjBy3pJzqMujK5i4&s=1753650443&e=10800&f=46112953&srv=1050&asn=267211&sp=5500&p=
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Pipoca
+https://outbound-proxy-us-east1-0-glob-usercontent-client-id-1884714891.googleapis.com.pt/docs/telecinepipoca/__index.m3u8?sv=29&nu3zAQc9HC3GbwJq=1753642828-I3kao3DfDGNgGFyS%2F3ZqnDk%2FX0p1CoZLp0DaP5V6Bcc%3D
